@@ -4,7 +4,7 @@ Unlocks an attribute within Application Server
 # Purpose
 As galaxies are migrated to new versions, attributes can be removed from the editor (2014 >= 2014 R2 - Engine.RestartOnFailure was removed from the IDE), if they are then locked the user has no way to unlock them. This simple application allows the user to compile using the GRAccess toolkit to unlock the required attributes via command line.
 
-#Usage
+# Usage
 The C# application was poorly written in Visual Studio 2015, compile the application
 and execute it with the following parameters:
 
