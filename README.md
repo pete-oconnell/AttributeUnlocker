@@ -8,7 +8,7 @@ As galaxies are migrated to new versions, attributes can be removed from the edi
 The C# application was poorly written in Visual Studio 2015, compile the application
 and execute it with the following parameters:
 
-unlockattribute.exe galaxy name, template name, attribute name, <username>, <password>
+unlockattribute.exe galaxy name, template name, attribute name, *username*, *password*
 
 Unsupported
 -----------
